@@ -5,6 +5,7 @@ const SecondPage = () => (
   <div>
     <Navbar />
     SECOND PAGE
+    <button>Do something</button>
   </div>
 )
 
